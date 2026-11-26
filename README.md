@@ -8,6 +8,10 @@
 
 - 세번째 옵션인 JAVA_HOME 환경변수를 선택하여 설치한다.
 
+# Docker Desktop 설치
+
+- 다운로드: https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe?utm_source=docker&utm_medium=webreferral&utm_campaign=docs-driven-download-win-amd64&_gl=1*1u5bhh7*_gcl_au*NTA5ODU2NTk0LjE3OTU2Njk0NDE.*_ga*MjQxNDA5NDAwLjE3OTU2Njk0NDE.*_ga_XJWPQMJYHQ*czE3OTU2Njk0NDAkbzEkZzEkdDE3OTU2Njk0NDEkajU5JGwwJGgw
+
 # Claude Skill
 
 ## System-Test-Skill
